@@ -7,9 +7,18 @@ Simple &amp; powerful boilerplate / template for react projects using webpack &a
 * Babel
 
 ## Getting started
+using npm:
 ```bash
 $ git clone git@github.com:kreftk/minimal-react-boiler.git
 $ cd minimal-react-boiler
 $ npm install
 $ npm run dev
+```
+
+using yarn:
+```bash
+$ git clone git@github.com:kreftk/minimal-react-boiler.git
+$ cd minimal-react-boiler
+$ yarn install
+$ yarn run dev
 ```
