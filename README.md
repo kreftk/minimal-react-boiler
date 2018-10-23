@@ -1,4 +1,4 @@
-# minimal-react-boiler
+# minimal-react-boiler (outdated - not maintained)
 Simple &amp; powerful boilerplate / template for react projects using webpack &amp; babel
 
 ## Stack
