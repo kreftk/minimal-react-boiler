@@ -22,8 +22,3 @@ $ cd minimal-react-boiler
 $ yarn install
 $ yarn run dev
 ```
-
-## Todo
-- [ ] adding flow
-- [ ] adding react-intl
-- [ ] adding code splitting
